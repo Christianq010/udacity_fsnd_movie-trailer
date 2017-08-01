@@ -8,3 +8,4 @@
 * Run `python entertainment_center.py` in a terminal from this directory or Double click the `entertainment_center.py` file.
 
 ### PEP8 requirements - *http://pep8online.com/checkresult*
+* [Check PEP8 Guidelines] (http://pep8online.com/).
