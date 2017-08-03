@@ -9,3 +9,6 @@
 
 ### PEP8 requirements - *http://pep8online.com/checkresult*
 * [Check PEP8 Guidelines](http://pep8online.com/).
+
+### Project Requirements Successfully Met
+* Project Review - (https://review.udacity.com/#!/reviews/647291/shared).
